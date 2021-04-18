@@ -1,4 +1,4 @@
-# coder-across-the-multiverse
+# A Coder Across the Multiverse
 
 ## Project Description
 First bootcamp group project at <Academia de Código_> after 3 weeks of learning Java.
